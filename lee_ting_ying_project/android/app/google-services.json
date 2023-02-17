@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "139473114607",
+    "project_id": "cpmad-project-13082019",
+    "storage_bucket": "cpmad-project-13082019.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139473114607:android:752277429db0574bb6d21a",
+        "android_client_info": {
+          "package_name": "com.example.lee_ting_ying_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139473114607-scqb6ka3bhmsnme6fuqi9oomq09jl4g0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeNtcZX8dVTo2JwTZiKUry1sHT4c3Sx9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139473114607-scqb6ka3bhmsnme6fuqi9oomq09jl4g0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
